@@ -1,0 +1,52 @@
+﻿File,Category,Attack,Class
+ARP_Spoofing_train.pcap.csv,SPOOFING,ARP Spoofing,1
+Benign_train.pcap.csv,BENIGN,Benign,0
+MQTT-DDoS-Connect_Flood_train.pcap.csv,MQTT,DDoS Connect Flood,1
+MQTT-DDoS-Publish_Flood_train.pcap.csv,MQTT,DDoS Publish Flood,1
+MQTT-DoS-Connect_Flood_train.pcap.csv,MQTT,DoS Connect Flood,1
+MQTT-DoS-Publish_Flood_train.pcap.csv,MQTT,DoS Publish Flood,1
+MQTT-Malformed_Data_train.pcap.csv,MQTT,Malformed Data,1
+Recon-OS_Scan_train.pcap.csv,RECON,OS Scan,1
+Recon-Ping_Sweep_train.pcap.csv,RECON,Ping Sweep,1
+Recon-Port_Scan_train.pcap.csv,RECON,Port Scan,1
+Recon-VulScan_train.pcap.csv,RECON,VulScan,1
+TCP_IP-DDoS-ICMP1_train.pcap.csv,DDoS,DDoS ICMP,1
+TCP_IP-DDoS-ICMP2_train.pcap.csv,DDoS,DDoS ICMP,1
+TCP_IP-DDoS-ICMP3_train.pcap.csv,DDoS,DDoS ICMP,1
+TCP_IP-DDoS-ICMP4_train.pcap.csv,DDoS,DDoS ICMP,1
+TCP_IP-DDoS-ICMP5_train.pcap.csv,DDoS,DDoS ICMP,1
+TCP_IP-DDoS-ICMP6_train.pcap.csv,DDoS,DDoS ICMP,1
+TCP_IP-DDoS-ICMP7_train.pcap.csv,DDoS,DDoS ICMP,1
+TCP_IP-DDoS-ICMP8_train.pcap.csv,DDoS,DDoS ICMP,1
+TCP_IP-DDoS-SYN1_train.pcap.csv,DDoS,DDoS SYN,1
+TCP_IP-DDoS-SYN2_train.pcap.csv,DDoS,DDoS SYN,1
+TCP_IP-DDoS-SYN3_train.pcap.csv,DDoS,DDoS SYN,1
+TCP_IP-DDoS-SYN4_train.pcap.csv,DDoS,DDoS SYN,1
+TCP_IP-DDoS-TCP1_train.pcap.csv,DDoS,DDoS TCP,1
+TCP_IP-DDoS-TCP2_train.pcap.csv,DDoS,DDoS TCP,1
+TCP_IP-DDoS-TCP3_train.pcap.csv,DDoS,DDoS TCP,1
+TCP_IP-DDoS-TCP4_train.pcap.csv,DDoS,DDoS TCP,1
+TCP_IP-DDoS-UDP1_train.pcap.csv,DDoS,DDoS UDP,1
+TCP_IP-DDoS-UDP2_train.pcap.csv,DDoS,DDoS UDP,1
+TCP_IP-DDoS-UDP3_train.pcap.csv,DDoS,DDoS UDP,1
+TCP_IP-DDoS-UDP4_train.pcap.csv,DDoS,DDoS UDP,1
+TCP_IP-DDoS-UDP5_train.pcap.csv,DDoS,DDoS UDP,1
+TCP_IP-DDoS-UDP6_train.pcap.csv,DDoS,DDoS UDP,1
+TCP_IP-DDoS-UDP7_train.pcap.csv,DDoS,DDoS UDP,1
+TCP_IP-DDoS-UDP8_train.pcap.csv,DDoS,DDoS UDP,1
+TCP_IP-DoS-ICMP1_train.pcap.csv,DoS,DoS ICMP,1
+TCP_IP-DoS-ICMP2_train.pcap.csv,DoS,DoS ICMP,1
+TCP_IP-DoS-ICMP3_train.pcap.csv,DoS,DoS ICMP,1
+TCP_IP-DoS-ICMP4_train.pcap.csv,DoS,DoS ICMP,1
+TCP_IP-DoS-SYN1_train.pcap.csv,DoS,DoS SYN,1
+TCP_IP-DoS-SYN2_train.pcap.csv,DoS,DoS SYN,1
+TCP_IP-DoS-SYN3_train.pcap.csv,DoS,DoS SYN,1
+TCP_IP-DoS-SYN4_train.pcap.csv,DoS,DoS SYN,1
+TCP_IP-DoS-TCP1_train.pcap.csv,DoS,DoS TCP,1
+TCP_IP-DoS-TCP2_train.pcap.csv,DoS,DoS TCP,1
+TCP_IP-DoS-TCP3_train.pcap.csv,DoS,DoS TCP,1
+TCP_IP-DoS-TCP4_train.pcap.csv,DoS,DoS TCP,1
+TCP_IP-DoS-UDP1_train.pcap.csv,DoS,DoS UDP,1
+TCP_IP-DoS-UDP2_train.pcap.csv,DoS,DoS UDP,1
+TCP_IP-DoS-UDP3_train.pcap.csv,DoS,DoS UDP,1
+TCP_IP-DoS-UDP4_train.pcap.csv,DoS,DoS UDP,1
